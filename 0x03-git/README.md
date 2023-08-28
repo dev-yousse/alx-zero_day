@@ -1,2 +1,2 @@
-this is my second readme
-this is my second readme
+Starting to code today, so cool
+
